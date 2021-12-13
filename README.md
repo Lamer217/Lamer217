@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lamer217
-- 👀 I’m interested in changing my profession as I can not find a job in a field that I've graduated in.
-- 🌱 I’m currently learning HTML & CSS as those are the fundamentals of the Front-End which I have found to be the easiest entry point into the IT field.
-- 💞️ I’m looking to collaborate on ANYTHING WHERE I COULD LEARN & PROGRESS. 
+- 👀 I’m interested in changing my profession as I can not find a job in a field that I've graduated in and the WEB is my second passion.
+- 🌱 I’m currently learning JS as that is one of the fundamentals of the Front-End, which, I think, should be learnt first, in full, in order to become a master web dev.
+- 💞️ I’m looking to collaborate on ANYTHING that I'm currently competent for WHERE I COULD LEARN & PROGRESS. (Vanilla JS) 
 - 📫 How to reach me (please do):
 Email: males.public@gmail.com ;
 Discord: Cozy_Tapok#2283 ;
