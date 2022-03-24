@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Lamer217
-- 👀 I’m interested in changing my profession as I can not find a job in a field that I've graduated in and the WEB is my second passion.
-- 🌱 I’m currently learning JS as that is one of the fundamentals of the Front-End, that I think should be learnt first, in full, in order to become a master web dev.
-- 💞️ I’m looking to collaborate on ANYTHING, that I'm currently competent for, WHERE I COULD LEARN & PROGRESS. (Vanilla JS) 
+- 👋 Hi, I’m Lamer217
+- 👀 I'm recent Ironhack web dev alumni, specializing in JS, MERN stack.
+- 🌱 I’m currently looking for a team to bring an additional value to with my acquired knowledge, and for a work environment where I could advance my skills and broaden my skillset. 
+- 💞️ I’m always looking to collaborate on any JavaScript based code or MERN app.
 - 📫 How to reach me (please do):
 Email: males.public@gmail.com ;
-Discord: Cozy_Tapok#2283 ;
+LinkedIn: https://www.linkedin.com/in/andrii-malesh/ ;
+<!-- Discord: Cozy_Tapok#2283 ; -->
 Telegram: @maleshot ( https://t.me/maleshot ) ;
 
 <!---
