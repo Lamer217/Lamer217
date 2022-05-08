@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lamer217
 - 👀 I'm recent Ironhack web dev alumni, specializing in JS, MERN stack.
-- 🌱 I’m currently looking for a team to bring an additional value to with my acquired knowledge, and for a work environment where I could advance my skills and broaden my skillset. 
+- 🌱 Currently working and sharpening my skills with amazing professional from [LawLift](https://www.linkedin.com/company/lawlift-gmbh/). 
 - 💞️ I’m always looking to collaborate on any JavaScript based code or MERN app.
 - 📫 Reach out to me:
   - Email: males.public@gmail.com ;
